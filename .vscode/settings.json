@@ -1,0 +1,8 @@
+{
+  "emmet.includeLanguages": {
+    "\"*.erb\" ": "\"html\"",
+    "*.erb": "html",
+    "ruby": "html",
+    "\"ruby\"": "\"html\""
+  }
+}
